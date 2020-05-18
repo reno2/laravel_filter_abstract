@@ -1,0 +1,16 @@
+aside{
+  margin-bottom: 30px;
+}
+
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+html{
+  font-size: 14px;
+}
